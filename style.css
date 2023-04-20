@@ -1,0 +1,29 @@
+body {
+    color: darkcyan;
+}
+
+h1{
+    text-align: center;
+    color: darkcyan;
+    font-size: 30px;
+    border: 1px solid;
+    border-radius: 3px;
+    border-color: brown;
+    background-color: beige;
+}
+
+h2{
+    text-align: center;
+    color: darkcyan;
+    font-size: 21px;
+}
+section{
+    font-size: 18px;
+}
+ul li{
+    padding-left: 30%;
+}
+.my{
+ font-size: 18px;
+ text-align: center;
+}
